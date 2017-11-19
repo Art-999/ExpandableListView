@@ -9,6 +9,10 @@ import java.util.HashMap;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
+    //https://www.tutorialspoint.com/android/android_json_parser.htm
+    //https://developer.android.com/reference/org/json/JSONObject.html
+    //http://www.vogella.com/tutorials/AndroidJSON/article.html
+    //https://www.w3schools.com/js/js_json_parse.asp
     ExpandableListView expandableListView;
     CustomExpandableListAdapter adapter;
     List<String> expandableListTitle;
